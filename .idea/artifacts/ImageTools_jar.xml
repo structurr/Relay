@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ImageTools:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ImageTools_jar</output-path>
+    <root id="archive" name="ImageTools.jar">
+      <element id="module-output" name="Relay" />
+    </root>
+  </artifact>
+</component>
